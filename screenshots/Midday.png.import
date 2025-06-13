@@ -16,9 +16,11 @@ dest_files=["res://.godot/imported/Midday.png-2519d49f8ea38e4a6c0cba9d3383a54a.c
 [params]
 
 compress/mode=0
+compress/high_quality=false
 compress/lossy_quality=0.7
+compress/uastc_level=0
+compress/rdo_quality_loss=0.0
 compress/hdr_compression=1
-compress/bptc_ldr=0
 compress/normal_map=0
 compress/channel_pack=0
 mipmaps/generate=false
